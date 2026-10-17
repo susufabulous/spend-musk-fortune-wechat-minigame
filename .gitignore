@@ -1,0 +1,17 @@
+# 微信开发者工具本地个人配置
+project.private.config.json
+
+# 系统/编辑器
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 日志
+*.log
+npm-debug.log*
+
+# node（如果以后加依赖）
+node_modules/
